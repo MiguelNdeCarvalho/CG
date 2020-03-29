@@ -5,6 +5,6 @@ function linspace(a, b, n) {
       arr.push(a + (step * i))
     }
     console.log(arr)
-  }
+}
 
 linspace(0,2,5)
